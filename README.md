@@ -13,4 +13,25 @@ This is built using HTML , CSS , ReactJS.
 
 ## Project Link : <https://imdb-movie-clone-vamsi.vercel.app/>
 
-### `npm start`
+
+### Run Locally 
+
+
+**Clone the repo:**
+
+```bash
+git clone
+```
+
+**Install the dependencies:**
+
+```bash
+npm install
+```
+
+
+**Start the app**
+
+```bash
+npm run dev
+```
