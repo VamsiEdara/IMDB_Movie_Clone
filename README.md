@@ -13,6 +13,7 @@ This is built using HTML , CSS , ReactJS.
 
 ## Project Link : <https://imdb-movie-clone-vamsi.vercel.app/>
 
+![undefined - Imgur](https://github.com/user-attachments/assets/e56852da-f95b-4a31-b634-aa2173db9918)
 
 ### Run Locally 
 
